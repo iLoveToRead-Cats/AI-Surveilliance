@@ -1,0 +1,55 @@
+.heading {
+    font-size: 28px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    box-shadow: 5px 5px 18px black;
+    background-color: rgb(1, 0, 71);
+    width: 60%;
+}
+
+#start {
+    font-size: 16px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    box-shadow: 5px 5px 18px black;
+    background-color: rgb(8, 98, 5);
+}
+
+#status {
+    font-size: 16px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    box-shadow: 5px 5px 18px black;
+    background-color: royalblue;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: black;
+    line-height: 2;
+    margin-bottom: 0px;
+}
+
+body {
+    background-size: cover;
+}
+
+#number_of_objects {
+    font-size: 16px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    box-shadow: 5px 5px 18px black;
+    background-color: maroon;
+}
